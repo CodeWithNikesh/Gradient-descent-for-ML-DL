@@ -1,4 +1,5 @@
 Project Title: Gradient Descent Linear Regression
+
 Name : Nikesh Singh
 
 Description: This project implements a simple linear regression model using gradient descent optimization. The GDRegressor class allows users to fit a linear model to their data by minimizing the mean squared error through iterative updates of the slope (m) and intercept (b). The model is trained using a specified number of epochs and a learning rate that controls the step size during the optimization process.
